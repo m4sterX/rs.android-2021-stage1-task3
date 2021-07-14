@@ -2,7 +2,7 @@ import org.junit.Assert.assertNull
 import org.junit.Assert.assertTrue
 import org.junit.Assert.assertEquals
 import org.junit.Test
-import subtask3.TelephoneFinder
+
 
 class NeighborsTelephonesTests {
 
